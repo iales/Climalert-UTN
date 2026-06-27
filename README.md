@@ -5,7 +5,7 @@ Trabajo Práctico - Diseño de Sistemas de Información (UTN.BA)
 
  ¿Qué hace?
 
-Climalert es un servicio autónomo que consulta el clima de la ciudad de CABA en tiempo real integrándose con WeatherAPI.
+Climalert es un servicio autónomo que consulta el clima de la ciudad de Buenos Aires, Distrito Federal en tiempo real, integrándose con WeatherAPI.
 
 El sistema evalúa constantemente los datos y dispara notificaciones por correo electrónico a los equipos de emergencia exclusivamente cuando se cumplen estas condiciones críticas simultáneas:
 
