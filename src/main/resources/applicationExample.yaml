@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Climalert
+
+climalert:
+  base-url: http://api.weatherapi.com/v1
+  api-key: udfudidididhgjdksdk
