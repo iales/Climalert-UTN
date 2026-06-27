@@ -4,4 +4,4 @@ spring:
 
 climalert:
   base-url: http://api.weatherapi.com/v1
-  api-key: udfudidididhgjdksdk
+  api-key: TU_API_KEY
