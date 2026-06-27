@@ -14,15 +14,9 @@ El sistema evalúa constantemente los datos y dispara notificaciones por correo 
 - Humedad: > 60%
 
 
-Configurá tu API Key:
-
-Andá a la carpeta src/main/resources/.
-
-Renombrá el archivo applicationExample.yaml a application.yaml.
-
-Pegá tu clave gratuita de WeatherAPI:
+Hay que renombrar el archivo applicationExample.yaml a application.yaml y Pegar la clave gratuita de WeatherAPI que te fue asignada:
 
 climalert:
   baseUrl: [http://api.weatherapi.com/v1](http://api.weatherapi.com/v1)
-  apiKey: TU_API_KEY_AQUI
+  apiKey: TU_API_KEY
 
