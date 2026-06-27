@@ -17,6 +17,6 @@ El sistema evalúa constantemente los datos y dispara notificaciones por correo 
 Hay que renombrar el archivo applicationExample.yaml a application.yaml y Pegar la clave gratuita de WeatherAPI que te fue asignada:
 
 climalert:
-  baseUrl: [http://api.weatherapi.com/v1]([http://api.weatherapi.com/v1](https://www.weatherapi.com/docs/))
+  baseUrl: http://api.weatherapi.com/v1
   apiKey: TU_API_KEY
 
