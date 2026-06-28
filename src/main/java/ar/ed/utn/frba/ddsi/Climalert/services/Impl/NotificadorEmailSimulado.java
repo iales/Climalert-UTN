@@ -16,8 +16,9 @@ public class NotificadorEmailSimulado implements NotificadorEmail {
   public void enviarAlerta(Clima clima) {
     for(String destinatario : destinatarios){
       System.out.println("Asunto: ALERTA METEOROLÓGICA ");
-      System.out.println(" - Temperatura Actual: " + clima.getTemperatura() + "°C (Límite: >35°C)");
-      System.out.println(" - Humedad Actual: " + clima.getHumedad() + "% (Límite: >60%)");
+      System.out.println(" - Temperatura Actual: " + clima.getTemperatura() + "°C");
+      System.out.println(" - Humedad Actual: " + clima.getHumedad() + "%");
+      System.out.println("Por favor, tomar las precauciones necesarias");
     }
   }
 }
