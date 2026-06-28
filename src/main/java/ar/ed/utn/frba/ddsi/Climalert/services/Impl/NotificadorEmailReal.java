@@ -46,7 +46,7 @@ public class NotificadorEmailReal implements NotificadorEmail {
 
 /*
 Esta clase se hizo con el objetivo de mostrar como armaria el verdadero envío del email,
-Para esto debería instalarse las dependencias de oficiales para hacer el envío "spring-boot-starter-mail"
-y también agregar application.yaml las configuraciones necesarias
+Para esto debería instalarse las dependencias oficiales para hacer el envío "spring-boot-starter-mail"
+y también agregar a application.yaml las configuraciones necesarias
 */
 
